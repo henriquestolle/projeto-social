@@ -15,8 +15,9 @@ img {
     width: 100vw;
 }
 
-#redes-sociais {
+.link {
     display: block;
+    background-color: darkred;
     padding: 20px;
     margin-top: 0px;
     text-align: center;
