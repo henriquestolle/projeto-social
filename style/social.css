@@ -15,9 +15,8 @@ img {
     width: 100vw;
 }
 
-a {
+#redes-sociais {
     display: block;
-    background-color: darkred;
     padding: 20px;
     margin-top: 0px;
     text-align: center;
@@ -26,6 +25,3 @@ a {
     color: white;
 }
 
-a:hover {
-    background-color: red;
-}
