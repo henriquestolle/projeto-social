@@ -26,3 +26,7 @@ img {
     color: white;
 }
 
+.link:hover {
+    background-color: rgb(216, 13, 13);
+}
+
